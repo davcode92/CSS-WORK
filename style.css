@@ -1,0 +1,54 @@
+.navBar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.navBarItem{
+     list-style: none;
+     color: white;
+     font-size: 30px;
+     margin-top: 30px;
+
+}
+
+nav{
+    background-color: grey;
+    height: 100px;
+
+}
+body{
+    background-color:black;
+}
+
+.navBarItem:hover{
+    cursor: pointer;
+}
+
+#homepic{
+    width:40% ;
+    margin-top: 40px;
+    margin-left: 30%;
+    opacity: 0.5; 
+}
+h1{
+text-align: center;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color:goldenrod;
+
+}
+table{
+   margin-left: 150px;
+   
+}
+
+th,td{
+   height: 70px;
+   width: 300px;
+   text-align: center;
+   color: white;
+}
+
+iframe{
+
+    margin-left: 90px;
+}
